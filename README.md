@@ -1,8 +1,2 @@
 # cr-of-sec7
-bt class
- it-lab1
-hruhaserthwl
-
-bkjakfhik
- master
-blahhhhh
+20171cse0460
