@@ -1,0 +1,18 @@
+<html>
+<head>
+<body>
+<h2><center>Tables</h2>
+<table border="1" width="50%" bgcolor="LightBlue" Cell Spacing="5" Cell padding="5" align="Center" bordercolor="Red">
+<tr>
+<th>Student Name</th>
+<th>Student ID</th>
+</tr>
+<td>Mighty Raju</td>
+<td>457</td>
+</tr>
+<tr>
+<td>CR</td>
+<td>460</td>
+</table>
+</body>
+</html>

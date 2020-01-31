@@ -1,0 +1,19 @@
+<html>
+<head>
+<body>
+<h2>The list</h2>
+<ol type = "a">
+<li>Books</li>
+<li>Coffee</li>
+</ol>
+
+<h3>Unordered list</h3>
+
+<ul>
+<li>Coffee</li>
+<li>Tea</li>
+<li>Milk</li>
+</ul>
+</body>
+</html>
+
