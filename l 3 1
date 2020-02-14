@@ -1,0 +1,12 @@
+<html>
+
+<frameset rows="25%,*,25%" cols="40%,*">
+<frame src="ordered.html">
+<frame src="table.html">
+<frame src="hr.html">
+<frame src="iframe.html">
+<frame src="time table.html">
+<frame src="marquee.html">
+</frameset>
+
+</html>

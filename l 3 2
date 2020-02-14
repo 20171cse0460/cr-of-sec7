@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>float</title>
+</head>
+<body>
+<h1>The float property</h1>
+<img src="rcb.jpg" alt="Pineapple" style="Float:right;width:150px;height:150px">
+<p>In this example,the image is symbol of unity. 
+<p>Its RCB LOGO.
